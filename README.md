@@ -1,5 +1,7 @@
 # Simulation of Complex Systems
 
+This project was carried out in the course "Simulation of Complex Systems" (FFR120) between November and December 2021. 
+
 Main Question trying to be answered by the simulation: 
 - Is there a number of political parties which optimizes the average happiness in the population. 
 
